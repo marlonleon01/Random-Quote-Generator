@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background: url("../imgs/Quote\ Generator\ Background.jpg") no-repeat center center fixed;
+    background: url("./img/Quote\ Generator\ Background.jpg") no-repeat center center fixed;
     background-size: cover;
     overflow: hidden;
     display: flex;
